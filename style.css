@@ -1,0 +1,20 @@
+h1{
+ font-size: 50px;
+ font-weight: bold;
+
+}
+.card{
+ width: 600px;
+ margin-left: 350px;
+}
+ul{
+ list-style: none;
+ padding: 0px;
+ 
+}
+ul li label {
+ cursor: pointer;
+}
+a:hover{
+ color: rgb(14, 105, 14);
+}
